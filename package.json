@@ -32,7 +32,7 @@
         "@bochilteam/scraper": "^2.0.0",
         "tiktok-scraper-ts": "^1.2.7",
         "brainly-scraper-v2": "^2.0.3",
-        "awesome-phonenumber": "^2.68.0",
+        "awesome-phonenumber": "^5.0.0",
         "glob-fs": "^0.1.7",
         "axios": "^0.24.0",
         "xfarr-api": "^1.0.3",
