@@ -9,29 +9,29 @@ import moment from 'moment-timezone'
 
 //≈≈≈≈≈≈≈≈≈≈≈≈≈≈ OWNER ≈≈≈≈≈≈≈≈≈≈≈≈≈≈
 global.owner = [
-  ['5214531106422', 'Creador', true],
-  ['59894808483', 'desarrollador', true],
-  ['59169316023'],
-  ['59822228462'],
-  ['50587538740']]
+  ['50587538740', 'Creador', true],
+  ['', 'desarrollador', true],
+  [''],
+  [''],
+  ['']]
 //≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
 global.suittag = [] 
 global.prems = [] 
 
 //≈≈≈≈≈≈≈≈≈ STICKER ≈≈≈≈≈≈≈≈≈≈≈≈≈≈
-global.packname = 'CuriosityBot-MD 🍧'
-global.author = '⫹⫺ WhatsApp Bot\nwa.me/59176184204'
+global.packname = 'PEREZBot-MD 🍧'
+global.author = '⫹⫺ WhatsApp Bot\nwa.me/50587538740'
 
 //≈≈≈≈≈≈≈≈≈≈≈≈≈≈ INFO-BOT-OWNER ≈≈≈≈≈≈≈≈≈≈≈≈≈≈
-global.wm = '𝘾𝙪𝙧𝙞𝙤𝙨𝙞𝙩𝙮𝘽𝙤𝙩-𝙈𝘿 • 𝘼𝙯𝙖𝙢𝙞'
-global.igfg = 'CuriosityBot-MD 🍥🚀'
+global.wm = 'PEREZ𝘽𝙤𝙩-𝙈𝘿 • Perez'
+global.igfg = 'perezbot-MD 🍥🚀'
 global.wait = '*⚠️ Cargando, espere un momento*'
 global.waitt = '*⚠️ Cargando, espere un momento...*'
 global.waittt = '*⚠️ Cargando espere un momento...*'
 global.waitttt = '*⚠️ Cargado, espere un momento...*'
-global.gt = 'Curiosity'
+global.gt = 'PEREZBOT'
 global.md = 'https://github.com/Azami19/CuriosityBot-MD1'
-global.mysticbot = 'CuriosityMD'
+global.mysticbot = 'PerezbotMD'
 global.nomorbot = '59176184204'
 global.nomorown = '5214531106422'
 global.azami = 'https://github.com/Azami19'
